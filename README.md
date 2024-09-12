@@ -1,7 +1,6 @@
 # Build with MPLABX Github Actions
 
 This action will build a MPLAB X project.
-
 It runs on Linux Ubuntu 18.04 and uses:
 
 - MPLAB 5.40
